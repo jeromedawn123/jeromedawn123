@@ -1,21 +1,27 @@
 # 👋 Hi, I'm Jerome Dawn!  
 
-🚀 **Senior Power Platform Developer | Aspiring Microsoft MVP**  
+🚀 **Senior Power Platform Developer | Founder of NextGen PowerApps | Aspiring Microsoft MVP**  
 
 ### About Me  
 🔹 I specialize in **Power Platform**, including Power Apps, Power Automate, and Dataverse.  
 🔹 Passionate about **low-code development, automation, and business process optimization**.  
-🔹 Currently working on **Dynamics 365 integrations, API-driven automation, and PowerFx development**.  
+🔹 Currently working on **helping businesses transition from costly legacy applications to modern Power Platform solutions**.  
+
+### 🚀 NextGen PowerApps  
+I founded **NextGen PowerApps** to help companies:  
+✅ **Integrate Power Platform end-to-end** into their business processes.  
+✅ **Automate workflows and improve efficiency** using Power Automate & Dataverse.  
+✅ **Navigate away from expensive legacy systems** by leveraging PowerApps and low-code solutions.  
 
 ### 👀 I’m Interested In...  
-- Building **enterprise solutions** using Power Platform.  
-- Exploring **Azure integrations with Power Automate & Dataverse**.  
-- Helping developers and businesses **adopt low-code/no-code solutions**.  
+- **Building scalable Power Platform solutions.**  
+- **Exploring AI and automation in PowerApps & Power Automate.**  
+- **Helping businesses modernize and transform with Microsoft technologies.**  
 
 ### 🌱 I’m Currently Learning...  
-- **Advanced PowerFx and Power Automate expressions**.  
+- Advanced **PowerFx, AI Builder, and cloud automation**.  
 - **PL-200 certification** to strengthen my Power Platform expertise.  
-- **How to contribute to the Microsoft community to become an MVP**.  
+- **How to contribute to the Microsoft community to become an MVP.**  
 
 ### 💡 Open to Collaborate On...  
 💼 **Power Platform solutions** – Open-source projects, templates, or learning resources.  
