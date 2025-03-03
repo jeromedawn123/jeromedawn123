@@ -16,7 +16,7 @@ I built a **Work Management System in PowerApps** to showcase:
 ✅ **A Model-Driven App for Supervisors**  
 ✅ **Automated workflows using Power Automate**  
 
-🔗 **Portfolio App:** [Click here to explore](https://github.com/jeromedawn123/WorkOrderCanvasApp) 
+🔗 **Low-Code, High Impact | My Power Platform Journey:** [Click here to explore](https://github.com/jeromedawn123/ResumePowerApp)) 
 🔗 **Work Order CanvasApp:** [Click here to explore](https://github.com/jeromedawn123/WorkOrderCanvasApp)  
 
 
